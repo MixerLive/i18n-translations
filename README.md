@@ -37,14 +37,18 @@ This folder contains locale JSON files used by the frontend runtime.
 Do not translate user-generated content like stream titles, descriptions, usernames, or channel names.
 Only translate static interface text.
 
-## Contribution flow (for public repo)
+## Contribution flow
 
 1. Fork the repo.
 2. Add or edit a locale file in this folder.
 3. Open a pull request with your locale changes.
-4. Include screenshots for at least one page using `?lang=<locale>`.
+4. Explain the reasons for you proposed changes, espcially when you change an already existing translation.
+5. Wait for moderator review it.
+6. Apply any changes from review.
+7. Merged or rejected.
 
-## Optional ignore marker
+## Missing elements
 
-Any element with `data-i18n-ignore` is skipped by auto-translation.
-Use this for areas that must not be translated.
+If you find a missing translation/static text, feel free to add it and it will be ajusted in the backend.
+These "placeholder" names may be changed later. expect things to break in the future. 
+NOTE: ANYTHING WITH data-i18n-ignore WILL NOT BE TRANSLATED
