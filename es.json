@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "locale": "es",
+    "name": "Espanol",
+    "direction": "ltr"
+  },
+  "strings": {
+    "Home": "Inicio",
+    "Following": "Siguiendo",
+    "Dashboard": "Panel",
+    "Login": "Iniciar sesion",
+    "Sign Up": "Registrarse",
+    "Upload Video": "Subir video",
+    "Uploading...": "Subiendo...",
+    "Uploading video...": "Subiendo video...",
+    "Uploading video. Keep this page open.": "Subiendo video. Manten esta pagina abierta.",
+    "Choose a video file first.": "Primero elige un archivo de video.",
+    "Title is required.": "El titulo es obligatorio.",
+    "Title must be 100 characters or fewer.": "El titulo debe tener 100 caracteres o menos.",
+    "Upload failed": "La subida fallo",
+    "Upload failed. Check your connection and try again.": "La subida fallo. Revisa tu conexion e intentalo de nuevo.",
+    "Upload cancelled.": "Subida cancelada.",
+    "Upload complete. Processing video...": "Subida completada. Procesando video...",
+    "Upload accepted. Processing started.": "Subida aceptada. El procesamiento ha comenzado.",
+    "Upload accepted. Processing started for VOD {{vodId}}.": "Subida aceptada. El procesamiento del VOD {{vodId}} ha comenzado."
+  }
+}

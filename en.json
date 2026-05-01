@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "locale": "en",
+    "name": "English",
+    "direction": "ltr"
+  },
+  "strings": {
+    "Home": "Home",
+    "Following": "Following",
+    "Dashboard": "Dashboard",
+    "Login": "Login",
+    "Sign Up": "Sign Up",
+    "Upload Video": "Upload Video",
+    "Uploading...": "Uploading...",
+    "Uploading video...": "Uploading video...",
+    "Uploading video. Keep this page open.": "Uploading video. Keep this page open.",
+    "Choose a video file first.": "Choose a video file first.",
+    "Title is required.": "Title is required.",
+    "Title must be 100 characters or fewer.": "Title must be 100 characters or fewer.",
+    "Upload failed": "Upload failed",
+    "Upload failed. Check your connection and try again.": "Upload failed. Check your connection and try again.",
+    "Upload cancelled.": "Upload cancelled.",
+    "Upload complete. Processing video...": "Upload complete. Processing video...",
+    "Upload accepted. Processing started.": "Upload accepted. Processing started.",
+    "Upload accepted. Processing started for VOD {{vodId}}.": "Upload accepted. Processing started for VOD {{vodId}}."
+  }
+}
